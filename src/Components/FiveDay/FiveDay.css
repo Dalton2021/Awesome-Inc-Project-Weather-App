@@ -1,0 +1,23 @@
+.fiveday-min-max {
+	display: flex;
+	justify-content: space-around;
+	color: rgb(148, 148, 148);
+	padding: 0px 5px 0px 5px;
+}
+
+.flex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.dates {
+	background-color: rgb(61, 61, 61);
+	font-weight: 380;
+	color: rgb(255, 255, 255);
+	/* border-bottom: 1px solid rgb(29, 29, 29) */
+}
+
+.icons {
+	color: rgb(159, 95, 219);
+}

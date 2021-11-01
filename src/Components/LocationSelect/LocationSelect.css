@@ -1,0 +1,22 @@
+.form-input {
+	background-color: transparent;
+	color: #fff;
+	border: none;
+	border-bottom: 2px solid #ffe;
+	border-radius: 0;
+}
+
+.form-input::placeholder {
+	color: rgb(160, 160, 160);
+}
+
+.form-input:focus {
+	background-color: transparent;
+	box-shadow: none !important;
+	color: #fff;
+}
+
+.btn-custom {
+	color: rgb(65, 65, 65);
+	font-weight: 450;
+}
